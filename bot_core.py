@@ -42,7 +42,7 @@ async def daily_zannen():
             print(f"キックに失敗: {e}")
 
 # Botトークンをセット
-bot.run('MTQxMjQyNjQ1MDYxODk0MTQ2MQ.GbiVzp.vkLr5KJwo9ImhvnWEmwIDerB8j0p8DEjxOTKSw')
+bot.run('MTQxMjQyNjQ1MDYxODk0MTQ2MQ.GGLjYB.dydUyb7ML9tUFb22LDscqtGpsXlhr9IlC_B85c')
 
 #GUILD_ID をあなたのディスコードサーバーIDに置き換えてください。
 #bot.run('YOUR_BOT_TOKEN') の 'YOUR_BOT_TOKEN' をあなたのボットトークンに置き換えてください。
