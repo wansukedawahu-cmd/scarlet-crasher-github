@@ -11,7 +11,7 @@ intents.message_content = True
 
 bot = commands.Bot(command_prefix="!", intents=intents)
 
-GUILD_ID = 123456789012345678  # サーバーIDに置き換えてください
+GUILD_ID = 1409775039477190749  # サーバーIDに置き換えてください
 
 @bot.event
 async def on_ready():
@@ -42,7 +42,7 @@ async def daily_zannen():
             print(f"キックに失敗: {e}")
 
 # Botトークンをセット
-bot.run('YOUR_BOT_TOKEN')
+bot.run('MTQxMjQyNjQ1MDYxODk0MTQ2MQ.GbiVzp.vkLr5KJwo9ImhvnWEmwIDerB8j0p8DEjxOTKSw')
 
 #GUILD_ID をあなたのディスコードサーバーIDに置き換えてください。
 #bot.run('YOUR_BOT_TOKEN') の 'YOUR_BOT_TOKEN' をあなたのボットトークンに置き換えてください。
