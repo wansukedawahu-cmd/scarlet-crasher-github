@@ -1,0 +1,19 @@
+{
+  "name": "scarlet-crasher-github",
+  "version": "1.0.0",
+  "description": "Discord bot with random kick functionality and cron scheduling.",
+  "main": "core.js",
+  "scripts": {
+    "start": "node core.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.0.0",
+    "node-cron": "^3.0.0",
+    "dotenv": "^16.0.0"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "author": "wansukedawahu-cmd",
+  "license": "MIT"
+}
